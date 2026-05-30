@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsppdate",
+        "uuid": 879000,
+        "checksum": "z5itmq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
